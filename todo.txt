@@ -1,0 +1,6 @@
+Mebuat list aktivitas :
+1. Sholat
+2. Makan
+3. Kuliah IT
+4. Kuliah Pesantren
+5. Mandi

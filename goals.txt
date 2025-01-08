@@ -4,3 +4,4 @@ Pencapaian saya di 2024 :
 3. Bisa Figma
 4. Bisa php
 5. Bisa Boostrap
+6. Bisa Kotlin
